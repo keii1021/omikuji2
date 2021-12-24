@@ -1,0 +1,34 @@
+.title{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    background-color: silver;
+}
+.box{
+    margin: 15px auto;
+    width: 70%;
+}
+.resulte{
+    font-size: 58px;
+    font-weight: 900;
+    text-align: center;
+    background-color: white;
+    margin: 50px auto;
+    width: 180px;
+    height: 200px;
+    border: 7px double red;
+}
+.detail{
+    font-size: 20px;
+    border-top: 2px solid black;
+    width: 80%;
+    margin: 5px auto;
+
+
+}
+
+
+
+
+
+
